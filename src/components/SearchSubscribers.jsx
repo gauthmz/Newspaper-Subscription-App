@@ -4,7 +4,7 @@ import SubscribersNavbar from './SubscribersNavbar'
 const SearchSubscribers = () => {
     return (
         <div>
-            <SubscribersNavbar/>
+            <SubscribersNavbar />
             <br />
             <div className="container">
                 <div className="row">
@@ -21,11 +21,10 @@ const SearchSubscribers = () => {
                             </div>
                             <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
 
-                            <button type="button" class="btn btn-primary">Search</button>
+                                <button type="button" class="btn btn-primary">Search</button>
 
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>

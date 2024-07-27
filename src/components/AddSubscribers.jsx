@@ -59,7 +59,6 @@ const AddSubscribers = () => {
                             </div>
                             <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 xol-xxl-6">
 
-
                                 <label htmlFor="" className="form-label">Village Office</label>
                                 <input type="text" className="form-control" />
 
@@ -80,7 +79,6 @@ const AddSubscribers = () => {
                     </div>
                 </div>
             </div>
-
         </div>
     )
 }

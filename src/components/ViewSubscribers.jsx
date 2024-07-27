@@ -4,7 +4,7 @@ import SubscribersNavbar from './SubscribersNavbar'
 const ViewSubscribers = () => {
     return (
         <div>
-            <SubscribersNavbar/>
+            <SubscribersNavbar />
             <br />
             <div className="container">
                 <div className="row">
@@ -16,7 +16,6 @@ const ViewSubscribers = () => {
                                     <th scope="col">No.</th>
                                     <th scope="col">Name</th>
                                     <th scope="col">Mobile</th>
-
                                 </tr>
                             </thead>
                             <tbody>
@@ -24,13 +23,11 @@ const ViewSubscribers = () => {
                                     <th scope="row">1</th>
                                     <td>David</td>
                                     <td>9758994488</td>
-
                                 </tr>
                                 <tr>
                                     <th scope="row">2</th>
                                     <td>Jacob</td>
                                     <td>8304808020</td>
-
                                 </tr>
                                 <tr>
                                     <th scope="row">3</th>

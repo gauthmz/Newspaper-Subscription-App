@@ -24,7 +24,6 @@ const DeleteSubscribers = () => {
 
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>

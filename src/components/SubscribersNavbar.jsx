@@ -22,7 +22,6 @@ const SubscribersNavbar = () => {
                             <li class="nav-item">
                                 <Link class="nav-link" to="/search">Search Subscribers</Link>
                             </li>
-
                             <li class="nav-item">
                                 <Link class="nav-link" to="/delete">Delete Subscribers</Link>
                             </li>
