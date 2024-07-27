@@ -5,10 +5,12 @@ const SearchSubscribers = () => {
     return (
         <div>
             <SubscribersNavbar/>
+            <br />
             <div className="container">
                 <div className="row">
                     <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
-
+                        <h5>Subscriber Search</h5>
+                        <br />
                         <div className="row g-3">
 
                             <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
@@ -19,7 +21,7 @@ const SearchSubscribers = () => {
                             </div>
                             <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
 
-                                <button className="btn btn-success">Search</button>
+                            <button type="button" class="btn btn-primary">Search</button>
 
                             </div>
                         </div>

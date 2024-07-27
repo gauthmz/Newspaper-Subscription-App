@@ -5,9 +5,11 @@ const ViewSubscribers = () => {
     return (
         <div>
             <SubscribersNavbar/>
+            <br />
             <div className="container">
                 <div className="row">
                     <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
+                        <h5>Subscribers List</h5>
                         <table class="table table-striped">
                             <thead>
                                 <tr>
